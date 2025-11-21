@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**mahmoud-saber/mahmoud-saber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 👋 Hi, I'm Mahmoud Saber<br><br>I'm a Back-end Developer specializing in PHP, Laravel,<br>and Yii2 Framework. I enjoy building clean, scalable,<br>and secure web applications and back-end services. <br>My work focuses on implementing best practices, applying software design patterns,<br>and improving system performance and maintainability.
 
 
@@ -37,10 +29,3 @@ Here are some ideas to get you started:
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
